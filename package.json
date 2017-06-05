@@ -1,0 +1,24 @@
+{
+  "name": "huhuijie blog",
+  "version": "1.0",
+  "description": "Huihujie Blog",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "resume"
+  ],
+  "author": "huhuijiezi",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.21.0",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.2"
+  },
+  "dependencies": {
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.1"
+  }
+}
